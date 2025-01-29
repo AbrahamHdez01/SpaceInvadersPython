@@ -1,8 +1,3 @@
-# SpaceInvadersPython
-First game in Python
-
----
-
 # Space Invaders 🛸
 
 Este es un juego inspirado en **Space Invaders**, desarrollado en **Python** utilizando la biblioteca **Pygame**.
