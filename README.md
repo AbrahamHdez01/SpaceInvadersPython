@@ -1,8 +1,6 @@
 # SpaceInvadersPython
 First game in Python
 
-Aquí tienes un README para tu juego de Space Invaders en Python con Pygame. 🚀 Si quieres agregar algo más, dime y lo ajusto.  
-
 ---
 
 # Space Invaders 🛸
