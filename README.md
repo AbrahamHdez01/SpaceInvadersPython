@@ -36,9 +36,6 @@ pip install pygame
 
 ¡Dispara a los alienígenas antes de que lleguen a la parte inferior de la pantalla! Cada enemigo destruido aumenta tu puntuación.  
 
-## 📸 Capturas de pantalla
-
-_Agrega aquí capturas de pantalla del juego si lo deseas._
 
 ## ⚡ Tecnologías utilizadas
 
